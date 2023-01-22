@@ -1,0 +1,17 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "belajar nodejs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldi Ramadhani",
+  "license": "MIT",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "random-word": "^2.0.0",
+    "text-to-speech-js": "^1.1.10"
+  }
+}
